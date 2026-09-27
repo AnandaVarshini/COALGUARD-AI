@@ -1,17 +1,20 @@
-### I recommend changing your README to this exact version
-
-```markdown
 # COALGUARD AI
 
-### AI-Powered Governance and Compliance Monitoring System for Coal Mines
+### AI-Powered Governance, Compliance & Risk Monitoring System for Coal Mines
 
-COALGUARD AI is a smart digital platform designed to support coal-mine
+COALGUARD AI is an AI-assisted platform designed to support coal-mine
 governance, compliance monitoring, inspections, risk assessment,
 violation management, and corrective actions.
 
 The system brings mine-related compliance information into a centralized
-platform and uses AI-assisted analysis to help authorities identify
+platform and uses intelligent analysis to help authorities identify
 potential risks and take timely corrective actions.
+
+---
+
+## 🖥️ Project Dashboard
+
+<img src="screenshots/dashboard.png" alt="COALGUARD AI Dashboard" width="100%">
 
 ---
 
@@ -22,7 +25,6 @@ potential risks and take timely corrective actions.
 - 🔍 Digital Mine Inspections
 - ⚠️ Violation Tracking
 - 🤖 AI-Based Risk Assessment
-- 🔮 Predictive Risk Analysis
 - 🔔 Alerts and Notifications
 - ✏️ Corrective Action Management
 - 📊 Reports and Analytics
@@ -68,12 +70,3 @@ Corrective Actions
 Verification & Closure
     ↓
 Reports & Analytics
-# COALGUARD AI
-
-### AI-Powered Governance, Compliance & Risk Monitoring System for Coal Mines
-
-COALGUARD AI is an AI-assisted platform designed to support coal-mine
-governance, compliance monitoring, inspections, risk assessment,
-violation management, and corrective actions.
-
----
