@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+body {
+  background-color: #050811;
+  color: #e2e8f0;
+}
+
+.glass-panel {
+  background: rgba(13, 21, 38, 0.75);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
