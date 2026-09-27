@@ -80,6 +80,8 @@ violation management, and corrective actions.
 
 ## 🖥️ Project Overview
 
-![COALGUARD AI Dashboard](screenshots/dashboard.png)
+![COALGUARD AI Dashboard]
+
+<img width="1371" height="686" alt="Screenshot 2026-09-27 121544" src="https://github.com/user-attachments/assets/60772bb6-f665-4dfb-93cb-6108375dc849" />
 
 ---
